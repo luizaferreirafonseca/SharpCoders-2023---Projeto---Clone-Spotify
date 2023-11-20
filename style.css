@@ -173,7 +173,7 @@ cursor:pointer;
     justify-content: center;
     align-items: center;
     color: white;
-    background: url('./showcase.webp') center center/cover; 
+    background: url('./img/showcase.webp') center center/cover; 
     background-color: rgba(0, 0, 0, 0.4);
     /* isso é importante */
     background-blend-mode: color;
