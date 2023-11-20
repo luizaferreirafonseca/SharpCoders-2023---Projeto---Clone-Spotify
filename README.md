@@ -2,9 +2,11 @@
 
 -> Este é um projeto do curso de formação SharpCoders, mediado pela ImãTech. 
 
+
+-> Link do Pages: https://luizaferreirafonseca.github.io/SharpCoders-2023---Projeto---Clone-Spotify/
+
 -> Objetivos: 
 Criar um clone básico da página inicial do Spotify. 
-
 
 Responsividade.
 
