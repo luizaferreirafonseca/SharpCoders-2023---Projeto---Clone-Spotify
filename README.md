@@ -5,7 +5,7 @@ Este é um projeto do curso de formação SharpCoders, mediado pela ImãTech, em
 O objetivo é criar um clone da página inicial do Spotify.
 
 ## :books: Funcionalidades
-* <b>Funcionalidade 1</b>: A página foi desenvolvida com responsividade para telas menores.
+A página foi desenvolvida com responsividade para telas menores.
 
 A página inicial do Spotify possui barra de navegação para o usuário escolher as opções, botões para obter o Spotify e também um rodapé com informações importantes sobre a empresa. 
 
@@ -16,6 +16,8 @@ O Toggle Menu tem sua funcionalidade ativada quando mudamos a tela para tamanhos
 Os Alerts foram criados também através de eventos "onclick", que mostram uma mensagem.
 
 A segunda página (URL) é ativada quando clicamos no botão "Entrar", por meio de um evento "onclick", adicionado com o Javascript.
+
+OBS: A segunda página (não obrigatória do projeto) ainda está sendo desenvolvida com responsividade.
 
 ## :wrench: Tecnologias utilizadas
 * HTML
