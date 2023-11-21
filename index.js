@@ -20,6 +20,12 @@ function clickItems(){
     alert('Funcionalidade em construção')
 }
 
+function buttonEntrar(){
+    window.location.href = "index_login.html"
+}
+
+
+
 let menu = false;
 
 function closeMenu(){
